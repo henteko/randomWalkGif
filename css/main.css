@@ -1,0 +1,18 @@
+video {
+  display: inline-block;
+  border: solid 1px #666666;
+  width: 640px;
+  height: 480px;
+}
+
+.video-contents {
+  text-align: center;
+}
+
+#start {
+  width: 250px;
+}
+
+#result-container {
+  text-align: center;
+}
