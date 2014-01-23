@@ -1,6 +1,9 @@
 ## use
 ```
 $ npm install express
-$ node server.js
+$ npm install forever
+$ forever start server.js
+# stop
+$ forever stop server.js
 ```
 access localhost:3000
